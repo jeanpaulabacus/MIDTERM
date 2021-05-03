@@ -1,0 +1,260 @@
+body {
+    font-family: "Century Gothic";
+    padding-top: 130px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(bg1.jpg); 
+  }
+  
+  .btn{
+    font-size: 15px;
+    background: #282424;
+    padding: 10px 10px;
+    width: 80px;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 40px;
+    float: left;
+  }
+  .btn:hover {
+      opacity: .7;
+  }
+  .btn2{
+      font-size: 15px;
+      background: #282424;
+      padding: 10px 10px;
+      width: 80px;
+      color: #fff;
+      border-radius: 5px;
+      margin-left: 10px;
+      float: center;
+  }
+  .btn2:hover {
+      opacity: .7;
+  }
+  .btn3{
+      font-size: 15px;
+      background: #282424;
+      padding: 10px 10px;
+      width: 100px;
+      color: #fff;
+      border-radius: 5px;
+      margin-left: 10px;
+      float: center;
+  }
+  .btn3:hover {
+      opacity: .7;
+  }
+  .form{
+      width: 500px;
+      height: 400px;
+      float: center;
+      background: rgba(0, 0, 0, 0.7);
+      border-radius: 15px;
+      padding-top: 5px;
+      margin: 0 auto;
+      margin-top: 15px;
+      padding-left: 5px;
+      text-align: center;
+      border: 2px solid #ccc;
+  
+  }
+  .form3{
+      width: 500px;
+      height: 500px;
+      float: center;
+      background: rgba(0, 0, 0, 0.7);
+      border-radius: 15px;
+      padding-top: 5px;
+      margin: 0 auto;
+      margin-top: 15px;
+      padding-left: 5px;
+      text-align: center;
+      border: 2px solid #ccc;
+  
+  }
+  .form2{
+      width: 470px;
+      float: center;
+      background: rgba(0, 0, 0, 0.7);
+      border-radius: 15px;
+      height: 460px;
+      padding-top: 9px;
+      margin: 0 auto;
+      padding-left: 5px;
+      border: 2px solid #ccc;
+      text-align: center;
+  }
+  
+  .form1{
+      width: 500px;
+      float: center;
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+      border-radius: 15px;
+      height: 250px;
+      margin: 0 auto;
+      padding-left: 5px;
+      border: 2px solid #ccc;
+  
+  }
+  
+  .text{
+      display: block;
+      border: 2px solid #696969;
+      width: 400px;
+      height: 20px;
+      padding: 10px;
+      margin: 10px auto;
+      border-radius: 5px;
+      font-size: 15px;
+  }
+  
+  h3{
+      font-family: "Century Gothic";
+      width: 450px;
+      height: 30px;
+      text-align: center;
+      font-size: 20px;
+      color: white;
+      margin: 0 auto;
+      margin-top: 10px;
+  }
+  
+  h4{
+      font-family: "Century Gothic";
+      width: 450px;
+      height: 30px;
+      text-align: center;
+      font-size: 20px;
+      margin: 0 auto;
+      margin-top: 10px;
+      color: white;
+  }
+  
+  
+  #h{
+      width: 100%;
+      text-align: center;
+      font-size: 35px;
+      color: rgb(151, 18, 18);
+      margin: 0 auto;
+      margin-top: 150px;
+      font-weight: 700;
+  }
+  
+  #hh{
+      width: 100%;
+      text-align: center;
+      font-size: 25px;
+      color: rgb(151, 18, 18);
+      font-weight: 700;
+  }
+  
+  #hhh{
+      width: 70%;
+      text-align: center;
+      color: black;
+      margin: 0 auto;
+      font-size: 18px;
+  }
+  
+  #hhhh{
+      text-align: center;
+      color: white;
+      margin: 0 auto;
+      font-size: 30px;
+  }
+  
+  
+  #code{
+      font-family: "Century Gothic";
+      width: 450px;
+      text-align: center;
+      font-size: 100px;
+      color: white;
+      margin: 0 auto;
+      font-weight: 900;
+  }
+  
+  p{
+      width:500px;
+      text-align: center;
+      font-size: 23px;
+      color: white;
+      font-size: 20.8px;
+      line-height: 60px;
+  
+  }
+  
+  address{
+      font-family: "Century Gothic";
+      width: 900px;
+      text-align: center;
+      font-size: 25px;
+      color: black;
+      margin: 0 auto;
+  }
+  .forgot{
+      color: blue;
+      font-size: 15px;
+      float: right;
+      margin-right: 40px;
+  }
+  .a{
+      font-family: "Century Gothic";
+      width: 900px;
+      text-align: center;
+      font-size: 25px;
+      color: black;
+      margin: 0 auto;
+  }
+  
+  .aa{
+      font-family: "Century Gothic";
+      width: 900px;
+      text-align: center;
+      font-size: 40px;
+      color: black;
+      margin: 0 auto;
+      font-weight: 900;
+      margin-top: 10px;
+  }
+  
+  #btn1{
+      margin-top: 1px;    
+      background: #282424;
+      }
+  
+  .p{
+      font-family: "Century Gothic";
+      width: 450px;
+      height: 30px;
+      text-align: center;
+      font-size: 20px;
+      color: white;
+      margin: 0 auto;
+      margin-top: 10px;
+      font-weight: 900;
+  }
+  
+  a{
+      font-size: 20px;
+      font-weight: 900;
+      color: black;
+  }
+  label {
+      color: #F0F8FF;
+      font-size: 18px;
+      padding: 8px;
+      padding-left: 35px;
+      float: left;
+  }
+  .input{
+      margin-bottom: 10px;
+      font-size: 20px;
+      border-radius: 5px;
+  }
+  
+  
+  
